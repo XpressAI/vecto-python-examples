@@ -1,0 +1,7 @@
+ftfy
+tqdm
+requests
+pillow
+ipywidgets
+jupyter
+pandas
