@@ -3,5 +3,5 @@ tqdm
 requests
 pillow
 ipywidgets
-jupyter
+notebook
 pandas
