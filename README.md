@@ -7,12 +7,12 @@
 Welcome to the Vecto Tutorials!
 This repository is a series of Juypyter notebook that guides you with your first Vecto project.
 
-For more information on the tutorials and Vecto API usage, visit our [documentation page](https://docs.vecto.ai/docs/).
+For more information on the tutorials and Vecto API usage, visit our [documentation page](https://docs.vecto.ai/).
 
 ## Content
 
 - [01 Hello Vecto](01-Hello-Vecto.ipynb) - Your first steps with Vecto. 
-- [02 Cats Dogs](02-Cat-and-Dog.ipynb) - Create a Vecto application capable of searching unique cats and dogs (and kittens and puppies).
+- [02 Analogies](02-Analogies.ipynb) - Learn how to use the core Vecto class to construct analogies.
 - [03 E Commerce Recommendation](03-E-Commerce-Recommendations.ipynb) - Learn how to use Vecto for for your e-commerce shop.
 
 ## Setup
