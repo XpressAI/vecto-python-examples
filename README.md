@@ -3,6 +3,13 @@
 <img src="https://user-images.githubusercontent.com/68586800/192857099-499146bb-5570-4702-a88f-bb4582e940c0.png" width="300"/>
 </a>
 </p>
+<p align="center">
+  <a href="https://docs.vecto.ai/">Docs</a> •
+  <a href="https://www.xpress.ai/blog/">Blog</a> •
+  <a href="https://discord.com/invite/wtYbXvPPfD">Discord</a> •
+    <a href="https://github.com/XpressAI/vecto-tutorials">Tutorials</a>
+
+<br>
 
 Welcome to the Vecto Tutorials!
 This repository is a series of Juypyter notebook that guides you with your first Vecto project.
@@ -28,4 +35,7 @@ You will need python 3.8+ for these tutorials. We recommend installing in a virt
 ```
 pip install -r requirements.txt
 ```
-We have also added the requirements inside each notebook so you should be able to run them in google collab. In future updates, we will also add support for setting up the datasets.
+We have also added the requirements inside each notebook so you should be able to run them in google collab.
+
+## Developers Discord
+Have any questions? Feel free to chat with the devs at our [Discord](https://discord.com/invite/wtYbXvPPfD)!
