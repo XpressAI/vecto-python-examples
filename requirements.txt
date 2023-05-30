@@ -3,5 +3,6 @@ tqdm
 requests
 pillow
 ipywidgets
-jupyter
+notebook
 pandas
+git+https://github.com/XpressAI/vecto-python-sdk@v0.1.0
