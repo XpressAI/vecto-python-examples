@@ -25,8 +25,8 @@ Alternatively you can also download the latest wheel file from the releases page
 
 ## Content
 
-- [01 Hello Vecto](01-Hello-Vecto.ipynb) - Your first steps with Vecto. 
-- [02 Analogies](02-Analogies.ipynb) - Learn how to use the core Vecto class to construct analogies.
+- [01 Hello Vecto](Tutorials/01-Hello-Vecto.ipynb) - Your first steps with Vecto. 
+- [02 Analogies](Tutorials/02-Analogies.ipynb) - Learn how to use the core Vecto class to construct analogies.
 
 
 ## Setup
