@@ -63,7 +63,6 @@ Rye Bread;Bakery;Fresh rye bread;83;2023-06-19
 Cornflakes;Grains;Crunchy cornflakes;100;2024-06-01
 Popcorn;Snacks;Microwave popcorn;106;2024-08-01
 Canned Peas;Canned Goods;Green peas;70;2024-07-01
-Watermelon;Fruits;Fresh watermelon;46;2023-06-20
 Brussels Sprouts;Vegetables;Fresh Brussels sprouts;38;2023-06-20
 Sweet Potatoes;Vegetables;Fresh sweet potatoes;86;2023-07-01
 Canned Pineapple;Canned Goods;Pineapple chunks in juice;70;2024-08-01
@@ -122,7 +121,6 @@ Tomato;Vegetables;Fresh ripe tomato;22;2023-07-10
 Flour;Baking;All-purpose flour;455;2024-06-30
 Yeast;Baking;Active dry yeast;50;2024-06-30
 Water;Drinks;Drinking water;0;Indefinite
-Tomato Sauce;Sauces;Rich tomato sauce;70;2023-07-30
 Mozzarella Cheese;Dairy;Soft Italian cheese;280;2023-07-15
 Pepperoni;Meat;Spicy dried sausage;150;2023-07-31
 Basil;Herbs;Fresh basil leaves;5;2023-07-01
@@ -143,18 +141,11 @@ Chorizo;Meat;Spicy Spanish sausage;455;2023-07-31
 Mussels;Seafood;Fresh mussels;73;2023-06-30
 Prawns;Seafood;Fresh prawns;100;2023-06-27
 Bell Peppers;Vegetables;Fresh bell peppers;31;2023-07-10
-Peas;Vegetables;Green peas;62;2023-06-29
 Chicken Broth;Sauces;Flavorful chicken broth;15;2023-07-30
 Lemon;Fruits;Fresh lemon;17;2023-07-05
 Cod;Seafood;Fresh cod filet;82;2023-06-30
-Salt;Spices;Table salt;0;Indefinite
-Pepper;Spices;Ground black pepper;5;Indefinite
-Flour;Baking;All-purpose flour;455;2024-06-30
 Bread Crumbs;Baking;Dried bread crumbs;110;2023-07-30
-Lemon;Fruits;Fresh lemon;17;2023-07-05
 Garam Masala;Spices;Indian spice blend;25;2024-12-31
 Turmeric;Spices;Ground turmeric;24;2024-12-31
 Cumin;Spices;Ground cumin;22;2024-12-31
-Ginger;Spices;Fresh ginger root;80;2023-07-15
-Tomato Sauce;Sauces;Rich tomato sauce;70;2023-07-30
 Coriander;Herbs;Fresh coriander leaves;5;2023-07-01
