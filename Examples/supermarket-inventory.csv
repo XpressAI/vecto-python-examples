@@ -1,0 +1,160 @@
+Item Name;Category;Description;Calories;Expiry Date
+Milk;Dairy;Fresh whole milk;150;2023-07-15
+Bread;Bakery;Whole grain bread;110;2023-06-20
+Apples;Fruits;Fresh green apples;95;2023-06-23
+Chicken Breast;Meat;Lean chicken breast;165;2023-06-19
+Eggs;Dairy;Cage-free brown eggs;70;2023-07-02
+Broccoli;Vegetables;Fresh broccoli heads;55;2023-06-20
+Almonds;Snacks;Raw unsalted almonds;160;2023-11-15
+Olive Oil;Oils;Extra virgin olive oil;120;2023-12-31
+Canned Tuna;Canned Goods;Tuna in water;100;2024-06-15
+Pasta;Grains;Whole wheat pasta;200;2024-01-01
+Rice;Grains;Long grain white rice;205;2024-01-01
+Spinach;Vegetables;Fresh baby spinach;7;2023-06-19
+Cheese;Dairy;Cheddar cheese;113;2023-07-30
+Beef;Meat;Lean ground beef;213;2023-06-18
+Tomatoes;Vegetables;Ripe tomatoes;22;2023-06-21
+Bananas;Fruits;Yellow bananas;105;2023-06-18
+Cucumbers;Vegetables;Fresh cucumbers;16;2023-06-20
+Yogurt;Dairy;Non-fat Greek yogurt;100;2023-07-01
+Bacon;Meat;Sliced bacon;42;2023-06-23
+Coffee;Beverages;Ground coffee;0;2024-06-15
+Tea Bags;Beverages;Black tea bags;0;2024-07-01
+Honey;Sweeteners;Raw natural honey;64;2025-06-16
+Oats;Grains;Whole grain oats;150;2024-02-01
+Strawberries;Fruits;Fresh strawberries;49;2023-06-19
+Lettuce;Vegetables;Iceberg lettuce;10;2023-06-20
+Carrots;Vegetables;Fresh carrots;41;2023-06-23
+Oranges;Fruits;Fresh oranges;62;2023-06-25
+Potatoes;Vegetables;Russet potatoes;130;2023-07-05
+Butter;Dairy;Unsalted butter;102;2023-08-01
+Salmon;Fish;Fresh salmon fillet;206;2023-06-18
+Peanut Butter;Spreads;Smooth peanut butter;188;2024-03-01
+Lentils;Legumes;Dry lentils;230;2024-12-01
+Chocolate;Snacks;Dark chocolate bar;155;2024-10-01
+Canned Corn;Canned Goods;Sweet corn kernels;80;2024-07-01
+Green Beans;Vegetables;Fresh green beans;31;2023-06-19
+Mushrooms;Vegetables;Fresh white mushrooms;22;2023-06-20
+Wine;Alcohol;Red wine;125;2025-12-31
+Sausages;Meat;Pork sausages;260;2023-06-22
+Milk Chocolate;Snacks;Milk chocolate bar;210;2024-09-01
+Soda;Beverages;Carbonated soft drink;150;2024-12-31
+Peppers;Vegetables;Fresh bell peppers;24;2023-06-21
+Wheat Flour;Baking;Whole wheat flour;100;2024-02-01
+Blueberries;Fruits;Fresh blueberries;84;2023-06-18
+Raisins;Snacks;Dried raisins;130;2024-08-01
+Grapes;Fruits;Red seedless grapes;69;2023-06-21
+Canned Beans;Canned Goods;Canned black beans;100;2024-07-01
+Avocados;Fruits;Fresh avocados;240;2023-06-19
+Quinoa;Grains;Organic white quinoa;220;2024-03-01
+Garlic;Spices;Fresh garlic bulbs;4;2023-07-01
+Canned Soup;Canned Goods;Chicken noodle soup;60;2024-06-01
+Vinegar;Condiments;Apple cider vinegar;3;2024-12-31
+Pumpkin;Vegetables;Fresh pumpkin;30;2023-07-01
+Pears;Fruits;Fresh pears;102;2023-06-20
+Pineapple;Fruits;Fresh pineapple;82;2023-06-19
+Cherry Tomatoes;Vegetables;Fresh cherry tomatoes;18;2023-06-18
+Tofu;Proteins;Organic firm tofu;70;2023-06-25
+Kiwi;Fruits;Fresh kiwi;42;2023-06-18
+Cabbage;Vegetables;Fresh cabbage;22;2023-06-21
+Cereal;Grains;Whole grain cereal;160;2024-06-01
+Sugar;Sweeteners;Granulated white sugar;49;2024-12-01
+Rye Bread;Bakery;Fresh rye bread;83;2023-06-19
+Cornflakes;Grains;Crunchy cornflakes;100;2024-06-01
+Popcorn;Snacks;Microwave popcorn;106;2024-08-01
+Canned Peas;Canned Goods;Green peas;70;2024-07-01
+Watermelon;Fruits;Fresh watermelon;46;2023-06-20
+Brussels Sprouts;Vegetables;Fresh Brussels sprouts;38;2023-06-20
+Sweet Potatoes;Vegetables;Fresh sweet potatoes;86;2023-07-01
+Canned Pineapple;Canned Goods;Pineapple chunks in juice;70;2024-08-01
+Celery;Vegetables;Fresh celery stalks;16;2023-06-18
+Mango;Fruits;Fresh mango;99;2023-06-20
+Cauliflower;Vegetables;Fresh cauliflower;25;2023-06-20
+Canned Tomato Soup;Canned Goods;Tomato soup;90;2024-06-01
+Onions;Vegetables;Fresh onions;44;2023-07-01
+Frozen Pizza;Frozen Food;Cheese pizza;285;2024-01-01
+Frozen Peas;Frozen Food;Frozen green peas;62;2024-02-01
+Chips;Snacks;Potato chips;152;2024-08-01
+Asparagus;Vegetables;Fresh asparagus;20;2023-06-18
+Crackers;Snacks;Whole grain crackers;80;2024-07-01
+Canned Chickpeas;Canned Goods;Canned chickpeas;120;2024-08-01
+Juice;Beverages;Apple juice;113;2023-12-01
+Radishes;Vegetables;Fresh radishes;16;2023-06-20
+Lemons;Fruits;Fresh lemons;17;2023-06-30
+Sour Cream;Dairy;Light sour cream;40;2023-07-01
+Whipped Cream;Dairy;Whipped cream;51;2023-07-02
+Ice Cream;Frozen Food;Vanilla ice cream;207;2024-01-01
+Mustard;Condiments;Yellow mustard;9;2024-12-31
+Zucchini;Vegetables;Fresh zucchini;33;2023-06-20
+Lamb;Meat;Lean lamb meat;250;2023-06-21
+Hot Dogs;Meat;Beef hot dogs;150;2023-06-22
+Pickles;Canned Goods;Dill pickles;5;2024-12-01
+Jam;Spreads;Strawberry jam;56;2024-07-01
+Soy Sauce;Condiments;Soy sauce;8;2024-12-31
+Canned Olives;Canned Goods;Pitted black olives;25;2024-09-01
+Mayonnaise;Condiments;Mayonnaise;94;2024-11-01
+Baking Powder;Baking;Baking powder;5;2025-01-01
+Baking Soda;Baking;Baking soda;0;2025-01-01
+Frozen Mixed Berries;Frozen Food;Frozen mixed berries;70;2024-02-01
+Canned Coconut Milk;Canned Goods;Coconut milk;200;2024-08-01
+Feta Cheese;Dairy;Feta cheese;75;2023-07-15
+Canned Beets;Canned Goods;Sliced beets;53;2024-07-01
+Tomato Sauce;Sauces;Rich tomato sauce;70;2023-07-30
+Oregano;Herbs;Dried oregano leaves;10;2024-12-30
+Parmesan Cheese;Dairy;Grated hard cheese;130;2023-08-10
+Beef Patty;Meat;Ground beef patty;250;2023-07-03
+White Rice;Grains;Long grain white rice;205;2024-06-30
+Peas;Vegetables;Green peas;62;2023-06-29
+Ground Cumin;Spices;Grounded cumin seeds;22;2024-12-31
+Ground Coriander;Spices;Grounded coriander seeds;20;2024-12-31
+Chili Powder;Spices;Hot chili powder;18;2024-12-31
+Lime;Fruits;Fresh lime;20;2023-07-05
+Soft Taco Shells;Bakery;Soft corn tortillas;150;2023-07-02
+Grated Cheese;Dairy;Mixed grated cheese;110;2023-07-15
+Salsa;Sauces;Tomato-based salsa;15;2023-07-25
+Steak;Meat;Marinated steak;679;2023-06-30
+Fries;Prepared Food;Deep-fried potatoes;365;2023-06-29
+Salt;Spices;Table salt;0;Indefinite
+Pepper;Spices;Ground black pepper;5;Indefinite
+Garlic Powder;Spices;Dried ground garlic;10;2024-12-30
+Parsley;Herbs;Fresh parsley leaves;11;2023-07-01
+Tomato;Vegetables;Fresh ripe tomato;22;2023-07-10
+Flour;Baking;All-purpose flour;455;2024-06-30
+Yeast;Baking;Active dry yeast;50;2024-06-30
+Water;Drinks;Drinking water;0;Indefinite
+Tomato Sauce;Sauces;Rich tomato sauce;70;2023-07-30
+Mozzarella Cheese;Dairy;Soft Italian cheese;280;2023-07-15
+Pepperoni;Meat;Spicy dried sausage;150;2023-07-31
+Basil;Herbs;Fresh basil leaves;5;2023-07-01
+Capers;Vegetables;Pickled caper buds;2;2024-07-30
+Cream Cheese;Dairy;Creamy soft cheese;51;2023-07-20
+Smoked Salmon;Seafood;Cured smoked salmon;117;2023-07-08
+Red Onion;Vegetables;Fresh red onion;40;2023-07-10
+Bagel;Bakery;Yeast dough bread roll;245;2023-06-30
+Dill;Herbs;Fresh dill leaves;5;2023-07-01
+Nori;Seafood;Dried seaweed sheets;5;2024-12-31
+Sushi Vinegar;Sauces;Rice vinegar for sushi;15;2024-12-31
+Avocado;Fruits;Fresh ripe avocado;234;2023-07-05
+Wasabi;Condiments;Japanese horseradish paste;15;2023-08-30
+Ginger;Spices;Fresh ginger root;80;2023-07-15
+Saffron;Spices;Dried saffron threads;5;2024-12-31
+Chicken Thighs;Meat;Boneless skinless chicken thighs;280;2023-06-28
+Chorizo;Meat;Spicy Spanish sausage;455;2023-07-31
+Mussels;Seafood;Fresh mussels;73;2023-06-30
+Prawns;Seafood;Fresh prawns;100;2023-06-27
+Bell Peppers;Vegetables;Fresh bell peppers;31;2023-07-10
+Peas;Vegetables;Green peas;62;2023-06-29
+Chicken Broth;Sauces;Flavorful chicken broth;15;2023-07-30
+Lemon;Fruits;Fresh lemon;17;2023-07-05
+Cod;Seafood;Fresh cod filet;82;2023-06-30
+Salt;Spices;Table salt;0;Indefinite
+Pepper;Spices;Ground black pepper;5;Indefinite
+Flour;Baking;All-purpose flour;455;2024-06-30
+Bread Crumbs;Baking;Dried bread crumbs;110;2023-07-30
+Lemon;Fruits;Fresh lemon;17;2023-07-05
+Garam Masala;Spices;Indian spice blend;25;2024-12-31
+Turmeric;Spices;Ground turmeric;24;2024-12-31
+Cumin;Spices;Ground cumin;22;2024-12-31
+Ginger;Spices;Fresh ginger root;80;2023-07-15
+Tomato Sauce;Sauces;Rich tomato sauce;70;2023-07-30
+Coriander;Herbs;Fresh coriander leaves;5;2023-07-01
