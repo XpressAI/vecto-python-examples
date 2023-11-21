@@ -19,15 +19,18 @@ For more information on the tutorials and Vecto API usage, visit our [documentat
 ## Installation
 You can install the python-sdk from our latest GitHub [release](https://github.com/XpressAI/vecto-python-sdk/releases). 
 ```
-pip install git+https://github.com/XpressAI/vecto-python-sdk@latest-release-tag
+pip install vecto-sdk
 ```
 Alternatively you can also download the latest wheel file from the releases page.
 
 ## Content
 
+### Tutorials
 - [01 Hello Vecto](Tutorials/01-Hello-Vecto.ipynb) - Your first steps with Vecto. 
 - [02 Analogies](Tutorials/02-Analogies.ipynb) - Learn how to use the core Vecto class to construct analogies.
-
+### Use Case Examples
+- [Wiki Search](Examples/Wiki-Search.ipynb) - Example of how you can integrate Vecto search into your wiki! 
+- [Store Recommendation System](Examples/Store-Recommendation-System.ipynb) - Learn how to create smart recommendations for your inventory!
 
 ## Setup
 You will need python 3.8+ for these tutorials. We recommend installing in a virtual environment.
